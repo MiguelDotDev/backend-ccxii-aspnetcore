@@ -1,0 +1,6 @@
+@API.CCXII_HostAddress = http://localhost:5030
+
+GET {{API.CCXII_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
